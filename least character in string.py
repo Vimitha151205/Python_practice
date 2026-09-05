@@ -10,4 +10,4 @@ min_freq = min(freq.values())
 for ch in s:
     if freq[ch] == min_freq:
         print(ch)
-        break
+        break 

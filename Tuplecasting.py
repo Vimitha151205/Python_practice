@@ -1,0 +1,6 @@
+t1=(1,2,3)
+t2=(4,5,6)
+l1=list(t1)
+l2=list(t2)
+l1.pop()
+print(l1)
